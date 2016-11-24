@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="74d1712880eb2b4ab37ddf3c6a3232c883756726">
+        <dex dex="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.6.0_5891c3a5d1226ca05615f994b30a136e91e910ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="347c65e4400de2f5a149e3c16a5f1ed2fa9591f1">
+        <dex dex="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e9e3fd34116a4cf8e90722211e449ee31359e987\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_e35acb52ba45b910b00b12876b17c79942f79fd9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a5da6fc5a6f39aee309ae6ae670e1b942759dc51">
+        <dex dex="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.6.0_ee360082fdeab534934395c3f3d8ae1bba525d88\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3270d392adef5decc7bace1a3c2e749bec7bf19e">
+        <dex dex="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-9.6.0_80197bc888ee31a5df4b35e47239ad400aa5cad3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_bf6c62114ee7b3cebd562535455385db7393a1a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_a97e15ef256fff48624a2cff5f5f26c6ba42952a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="93a0248fe0524b4fa2d16f5f7c3cff8452796454">
+        <dex dex="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.6.0_507719dfa032b37437e7ef1888e8b364de4d9841\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_1c8ed4ff66bac01c25eedab7d3936f5e8d172ce1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="97e3259dcdaa9b33014a849f6d3bdbb4ef478383">
+        <dex dex="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.6.0_08379384386eccba5e367666a7d9f33b6d8aa92d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d1e7862a5a7675940acb6efcab34b38de89c9e18">
+        <dex dex="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.6.0_19b7b420f8b4f986b79e0b2d8509842c4b3ce99d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.volley-volley-1.0.0_d2eb3b9a4e35e16c60b0a5389c63f969197cde1e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53f7fbab5e6f4149eb5a1cdeabaeeeee11a84ebe">
+        <dex dex="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.6.0_18c5e87ccbd6c5f14cbe02ca901d2fdbd537622e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_f5d3ac40e65469ba473450d385090c881c177c17\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1bf2ceb0034efe20249a561096f6e288cce7a0a4">
+        <dex dex="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.6.0_67d4f1f6b47f7e684324984e1e0d1be370387af6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="415336382149f2a79eb80599e340e188f6724d6d">
+        <dex dex="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.6.0_2fac4aa5874abc6ce3a8a75abe3e895df076e5cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eb96a230c7b55d545fbdee45157a5a75b2b26284">
+        <dex dex="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-9.6.0_76faf4feab57935e3ae109e11e8f6107726d5d44\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_5acadbdaf55910aafea1385c82b0bb29dde52c3c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_952781770bb674a3ee2dea1d2659c809232e84a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_39663783bb029b8d28606a1c02eb9fd335ea999c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_ee3280963f9b489589d3d5a53079b4a554bcc004\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a9f41e6463de88c3f979d796382fc24fb7e9cd41">
+        <dex dex="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.6.0_245b14294228366097886e8437e6957fe6696fac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf803332f826adea247cc452d0bb04d7943f0007">
+        <dex dex="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.6.0_f2811701133f87cdd0e3e5e2816fe10326bdc4a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4cfc5a74aa9453cbec685cdbcb3e3f3539b483bd">
+        <dex dex="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.6.0_e465e5f2134583d2fa45fdbdf6d4e3eda16cc996\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ef21408e3142ffbfbd4a7ec1762c3325c6c386c">
+        <dex dex="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.6.0_65f6aec34d8432f57d9d3fea9a9ce1960f7cffb7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_08a8c0c51848f824a1f1d0bb8254782329c8313a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="938ba83fbb26987368049237e47718d56e91e222">
+        <dex dex="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.6.0_bd4d93f4c0a577e2256cee5a14b28dc6947b1cf9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5fef4ad8c5b2519596b80a241d56b69dffcd6845">
+        <dex dex="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-9.6.0_3588a81cff665a7642c8c0f0cbfa7bcf3a826ac4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_808d1ca1ebba57068e9c0f092f7c51261bd00f1d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="542591cfb4d8b12839396e5287f64a29358d65d3">
+        <dex dex="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_45cc9e0b723d398886cf85ad9ab5f21e640e704f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43ab9b69758a0f22706629223c367e9bd478e1a8">
+        <dex dex="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.6.0_e2c80dc999f4af5d56b702800cc0054b25a3d4b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="580fa73d5bf63ffd04b9d66d0e75a2ed21842702">
+        <dex dex="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.6.0_d7369ca12c9565ace961b97c4599ceea0d83913e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_88e7704fb719db91459fb56f95982fda8bc8a819\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2c9c986087e5862518757d0c988c8eac1a47bfd">
+        <dex dex="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-9.6.0_56215d167a7472c6096ff77e495d703b3e1447ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a723c85825d9591baec200523c10662e30c8bed7">
+        <dex dex="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.6.0_851aabaf4eba7d9d963d5cd4c237c41e28bce969\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="db0a4170961a16af6d7a5222bf90a5876eea4227">
+        <dex dex="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.6.0_6c95188eb4ccf7bd686e09986fc2bb8e3a6e68ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1f4bb2577a30d0b3268fed038ed59230709ad593">
+        <dex dex="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.6.0_7ca97a8b9b9d700558ac5a0171b3c21d96daebd9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a93aa431de60b775c91158433f3c687f1d32cb9c">
+        <dex dex="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.6.0_e8d913d1efd38061bfe4eb1b23e27a80875406a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f6afcfbf1989631424f9ceaae6ee24777d3cf6ba">
+        <dex dex="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.6.0_d7ea81563caa65467cae565aa285691accd17f46\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_e0112cb1cfe8d9e8d200b7ff11830bb871ce6a7e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6d16df2955bbd154b36819386cfd2e3b7f7cae5b">
+        <dex dex="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-9.6.0_ab2208017daf763ea93cd2bea2f1fdafd2c15ad8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7357a05eea2a049c33488c7e8c6f887b3483d4b8">
+        <dex dex="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.6.0_0ffa06b614a81497f6378bc92481f6b3ac21f6d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_df9032c9fd02f2dd48bc4f177359be5ca7c28330\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6079f942bb34faee179b4c46396a26fbbfc43e5d">
+        <dex dex="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.6.0_2a8b9a57315f5aa9379a9bf51e3edd992b31c19d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea5537e2a88ce0497d3e2272b1cf93f2e0c77b0d">
+        <dex dex="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.6.0_fd23ac9b95d10fe806f6db5308a07a639e042885\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f5c557145ddef094005eb73d72a7eaf330a0cf1">
+        <dex dex="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.6.0_8342a9a2722bd780df9e027ac1bafd201ae994db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bd11b3899f275668a9355f19cea2c2320f5f9d14">
+        <dex dex="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.6.0_50cad76e3a5d3393c384ce997b446d509d308e1a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f4540ad2a6e3741694e9332f0c20607c780fae6c">
+        <dex dex="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.6.0_101ce4bc0d19866edc0919fdab3eba76266cda7d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="614b2ffd04818e865e1c02cc149c6b92e518e862">
+        <dex dex="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.6.0_02acdbc3b330ef5e1b946243bffcd7e1c9ef8ed2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d39f676be8400123523882d189a1d84040d34339">
+        <dex dex="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.6.0_2d21acba3c9cd2f2b3adc32de60216445e8846d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5243af50631020511cf2403789678149b1a319e6">
+        <dex dex="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.6.0_490412fab08720695016a267d4e7351e89fac97c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ab00b7d310cfdfff3a9446554485647153d0792">
+        <dex dex="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.6.0_d303dc51b5ba0cfab0ce82d612a609290f01af83\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e651c1430cc9b8a3b3b5a9d92bb173214dfdf42">
+        <dex dex="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.6.0_1871b48b0344276cf671c5a24747b155eaae0691\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="73699fb64ea3de4a43d0f5c37dc525a5e1341ca1">
+        <dex dex="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.6.0_8b88ea5936be1b9c41b45031016c39cc3c0e2d63\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f861fce2e9fa167e7fe8d8558cf2cbb910b9fb34">
+        <dex dex="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.6.0_0cf52b5e21b53741aa2aa91a2e0e136d90367ec3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="12e94600a0ea3beae6ea0f1d18a0768ded5bc1ae">
+        <dex dex="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.6.0_9672b5cc869de2400b73a046c3198291a18372a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_26a6b9f1e12febc224749a43802970f912df6848\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_ddf6e012e78f3ae9c712ca5313800208f545dc7b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_98e1cd58e5ef45119dd67f28578b28cad0ddfec2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7a343e17f154f513a09c12946fae0f172be079ec">
+        <dex dex="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.6.0_cbad23a97eea7b7028dec049c4708938ed5fc3a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c48db997d87eb3e3ad47713cfbfe7cb878a2e66c">
+        <dex dex="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.6.0_da6d85bdd432cb2eef7f03cb219e7fef65808669\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d57767271a9c140da143ec0db9a0673b6d96eccb">
+        <dex dex="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.6.0_ea56bfc80f653ce5694d64f3c4417e805863b00f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_07f2c7923a0392cef940250bd742002a4d4404c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de2c50f4a24277d22d675d598640da6d4622b14d">
+        <dex dex="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.6.0_58129856100d07a5186d056e3482d61e64f284a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ba2f029ff37297295d2d197ac6e957b361bfccaf">
+        <dex dex="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.6.0_969ba477cbd58dccfdae1a41e75ee28ee6f602fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="300e72616fdf265bb36bff7adb1ebec7b1d72817">
+        <dex dex="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.6.0_0ea54a0cef35d58f8ed964b2de3ee4a683e7e8d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ce5313bb5ccc0c1e10c995e4efb2f2b08c848b39">
+        <dex dex="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.6.0_94e80d664700ad7c3ac73780dc83c15bd1640339\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="266e4ac186afacc3b220a0cf8382348283b42407">
+        <dex dex="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.6.0_811ae15d3f502ff6d96425f8ada35e4cc29bf36f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26cd46f7bc6e1f269062b61269317a29329a9a7b">
+        <dex dex="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-9.6.0_97b7e317b01a4e58b3bc61e6bd9a528aa64b11f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a917154cf730ea6ec2495705309e6a4065cde2ac">
+        <dex dex="C:\Users\Gistec\AndroidStudioProjects\Test1.2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.6.0_a18afd27dce04875e4b258457555b3238d15620e\classes.dex" />
+    </item>
+
+</items>
